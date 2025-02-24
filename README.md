@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
-<h3 align="center">A passionate Software Development from India</h3>
+<h3 align="center">A passionate Software Development </h3>
 
 - 🌱 I’m currently learning **Python django**
 
