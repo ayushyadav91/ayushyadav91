@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
-<h3 align="center">A passionate Software Enginner </h3>
+<h3 align="center">A passionate Technology </h3>
 
 - 🌱 I’m currently learning **Java**
 
