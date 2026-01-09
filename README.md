@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
-<h3 align="center">A passionate Software Development </h3>
+<h3 align="center">A passionate Software Enginner </h3>
 
-- 🌱 I’m currently learning **Python django**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **full stack development**
+- 💬 Ask me about **Backend development**
 
 - 📫 How to reach me **ayushyadav239084@gmail.com**
 
